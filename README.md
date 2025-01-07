@@ -1,4 +1,4 @@
-
+![City Management Project](https://example.com/city-management-cpp-project-front-page.jpg)
 # City Management Project 🌆  
 
 
