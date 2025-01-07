@@ -1,4 +1,6 @@
 ![City Management Project](https://example.com/city-management-cpp-project-front-page.jpg)
+<img src="https://raw.githubusercontent.com/username/repository-name/main/city-management.jpg" alt="City Management">
+
 # City Management Project 🌆  
 
 
