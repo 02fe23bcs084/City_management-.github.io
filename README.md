@@ -41,10 +41,11 @@ The *City Management* project is a C++-based initiative aimed at solving urban m
    - Implements algorithms like Dijkstra's for shortest path planning and facility maintenance.  
 
 3. *Service Management*  
-   - Monitors city services like 1. Garbage Collection, Health Care, Water Management, Workforce Management, Urban Planning, Emergency Services,  etc
-   - Uses dynamic scheduling and optimization techniques for service delivery.  
+   The code provides a comprehensive system for urban management, focusing on multiple aspects like sanitation,
+    healthcare, water distribution, workforce management, and more. Each class has clearly defined functionalities
+    that make it modular and easy to extend or integrate into larger systems.
 
-4. *Transport Management*  
+5. *Transport Management*  
    - Optimizes transportation routes and traffic flow within the city.  
    - Uses graph traversal (DFS/BFS) for route analysis and optimization.  
 
